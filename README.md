@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hebert-Nunes&label=Profile%20views&color=0e75b6&style=flat" alt="Hebert-Nunes" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&vCenter=false&random=false&width=435&lines=Hello+World;My+name+is+Hebert+Nunes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=false&vCenter=true&random=false&width=435&lines=Hello+World;My+name+is+Hebert+Nunes)](https://git.io/typing-svg)
 
 <p align="center">🎓 Mentor and Developer at Trusted School </p>
 <hr>
