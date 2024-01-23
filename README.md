@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Hebert-Nunes&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelpcs" /> </p>
-<div style="text-align: center;">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&random=false&width=435&lines=Hello+World;My+Name+is+Hebert+Nunes)](https://git.io/typing-svg)
-</div>
 <p align="center">🎓 Mentor and Developer at Trusted School </p>
 <hr>
 
