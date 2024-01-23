@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 
 <a href="https://www.microsoft.com/pt-pt/sql-server/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="SQLServer" width="60" height="60"/></a>
+  <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" alt="SQLServer" width="60" height="60"/></a>
 
 <a href="https://OutSystems.com" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4" alt="react" width="60" height="60"/></a>
@@ -35,15 +35,6 @@
 </p>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Hebert-Nunes/Hebert-Nunes/output/github-contribution-grid-snake.svg" />
-
-  <br/>
-</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
