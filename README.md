@@ -31,7 +31,10 @@
   <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" alt="SQLServer" width="60" height="60"/></a>
 
 <a href="https://OutSystems.com" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4" alt="react" width="60" height="60"/></a>
+  <img src="https://avatars.githubusercontent.com/u/2916417?s=280&v=4" alt="outsystems" width="60" height="60"/></a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="next" width="60" height="60"/></a>
 
 </p>
 
