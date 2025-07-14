@@ -33,7 +33,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="next" width="60" height="60"/></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b0cc704a-f1d6-4f38-a3ba-0367aedad37d" />
+  <img alt="typescript" width="60" height="60" src="https://github.com/user-attachments/assets/b0cc704a-f1d6-4f38-a3ba-0367aedad37d" />
 </a>
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
