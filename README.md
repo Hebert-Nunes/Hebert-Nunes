@@ -1,7 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e125b6f9-1c7e-4cfc-a98c-012999b3cf42" /><img width="640" height="570" alt="image" src="https://github.com/user-attachments/assets/94fbe79d-764b-44c0-9e31-8bd3db2b4db6" /><p align="center"> <img src="https://komarev.com/ghpvc/?username=Hebert-Nunes&label=Profile%20views&color=0e75b6&style=flat" alt="Hebert-Nunes" /> </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello+World;My+name+is+Hebert+Nunes)](https://git.io/typing-svg)
-
 <p align="center">🎓 Mentor and Developer at Trusted School </p>
 <hr>
 
