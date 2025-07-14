@@ -33,7 +33,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="next" width="60" height="60"/></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="60" height="60"/></a>
+  <img src=https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png" alt="typescript" width="60" height="60"/></a>
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react" width="60" height="60"/></a>
