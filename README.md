@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hebert-Nunes&label=Profile%20views&color=0e75b6&style=flat" alt="Hebert-Nunes" /> </p>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e125b6f9-1c7e-4cfc-a98c-012999b3cf42" /><img width="640" height="570" alt="image" src="https://github.com/user-attachments/assets/94fbe79d-764b-44c0-9e31-8bd3db2b4db6" /><p align="center"> <img src="https://komarev.com/ghpvc/?username=Hebert-Nunes&label=Profile%20views&color=0e75b6&style=flat" alt="Hebert-Nunes" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello+World;My+name+is+Hebert+Nunes)](https://git.io/typing-svg)
 
@@ -35,6 +35,15 @@
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="next" width="60" height="60"/></a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="60" height="60"/></a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react" width="60" height="60"/></a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="postgreSQL" width="60" height="60"/></a>
 
 </p>
 
